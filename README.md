@@ -1,4 +1,9 @@
 # NumbersToBritishEnglishWordsConverter
+
+[![Build Status](https://travis-ci.org/arpitha-v/NumbersToBritishEnglishWordsConverter.svg)](https://travis-ci.org/arpitha-v/NumbersToBritishEnglishWordsConverter)
+
+[![codecov](https://codecov.io/gh/arpitha-v/NumbersToBritishEnglishWordsConverter/branch/master/graph/badge.svg)](https://codecov.io/gh/arpitha-v/NumbersToBritishEnglishWordsConverter)
+
 Converts given input number in range 0-999999999 to British English Words
 
 
