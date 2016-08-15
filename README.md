@@ -13,11 +13,11 @@ Given an integer in range 0 to 999999999 this will return a British English word
 
 For example:
 
-Input       Output
------       ------
-21          Twenty One
-1005        One Thousand and Five
-999999999   Nine Hundread and Ninety Nine Million Nine Hundread and Ninety Nine Thousand Nine Hundread and Ninety Nine
+Input      |      Output
+-----------|---------------
+21         |  Twenty One <br/>
+1005       |  One Thousand and Five <br/>
+999999999  |  Nine Hundread and Ninety Nine Million Nine Hundread and Ninety Nine Thousand Nine Hundread and Ninety Nine.
 
 Build:
 ------
